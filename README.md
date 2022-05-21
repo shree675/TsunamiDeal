@@ -1,4 +1,5 @@
 # DBMS-Project
+https://tsunami-deal.herokuapp.com/
 
 ## Instructions To Run
 
@@ -12,6 +13,6 @@ $ npm run dev
 
 ### Authors
 
-Shreetesh
-Harshitha
-Debeshee
+* Shreetesh
+* Harshitha
+* Debeshee
