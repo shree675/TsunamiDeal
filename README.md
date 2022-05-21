@@ -1,5 +1,4 @@
 # DBMS-Project
-https://tsunami-deal.herokuapp.com/
 
 ## Instructions To Run
 The website and the database have been completely hosted online. Use the link https://tsunami-deal.herokuapp.com/ to run the application directly on your browser.
